@@ -1,0 +1,12 @@
+.btn{
+    padding: 17px 20px;
+    font-size: 0.8rem;
+    width: 170px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    background-color: rgb(37, 37, 37);
+    font-family: 'Roboto Mono', monospace;
+    outline: none;
+}

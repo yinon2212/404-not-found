@@ -1,0 +1,9 @@
+.paragraph{
+    color: rgb(147, 146, 146);
+    width: 40%;
+    font-size: 1.05rem;
+    word-spacing: 5px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+    font-family: 'Roboto Mono', monospace;
+}

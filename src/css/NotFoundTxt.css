@@ -1,0 +1,7 @@
+.not-found-text{
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+    color: rgb(37, 37, 37);
+}
